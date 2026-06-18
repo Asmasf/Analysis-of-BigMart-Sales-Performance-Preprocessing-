@@ -1,4 +1,4 @@
-# Analysis-of-BigMart-Sales-Performance-Preprocessing
+# Analysis of BigMart Sales Performance (Preprocessing)
 
 # 📌 Project Overview
 This project analyzes BigMart sales data to identify how store types, outlet sizes, and product characteristics influence sales performance. The analysis includes data cleaning, preprocessing, statistical testing, and feature engineering to generate business insights.
