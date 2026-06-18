@@ -39,5 +39,3 @@ Key features include Outlet Type, Outlet Size, Item Visibility, Item Weight, Ite
 * Seaborn
 * Scikit-Learn
 * Jupyter Notebook
-
-⭐ **Goal:** Identify the impact of outlet characteristics on sales performance and support data-driven business decisions.
